@@ -14,7 +14,7 @@ In Project TreadStone HQ.
                             JASON BORNNE
         I KNOW you killed Stephens.  
         I KNOW you killed Mayweather.  
-        But why are you targeting Branson.  He doesn't know anything the operation. 
+        But why are you targeting Branson.  He doesn't know anything about the operation. 
 
                             TREADSTONE COMMANDER  
         Borne, there are things going on that are even above MY rank.  
