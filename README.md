@@ -17,7 +17,7 @@ In Project TreadStone HQ.
         But why are you targeting Branson.  He doesn't know anything the operation. 
 
                             TREADSTONE COMMANDER  
-        Borne, there are things going on that even above MY head.  
+        Borne, there are things going on that are even above MY rank.  
 
 
                             OPS PERSON #2
