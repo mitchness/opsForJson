@@ -95,7 +95,7 @@ Screen shows scrambled video feed.
 
                             TREADSTONE COMMANDER  
         What's wrong!?  
-        What going on!?
+        What's going on!?
         
                             OPS PERSON #3
                               (Excited)
