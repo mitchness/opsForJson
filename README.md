@@ -235,7 +235,7 @@ Camera zooms into Bornne's ear.
         Oh, yeah.  
         I have to hit submit.
         
-        Ok done.  I have his phone hash cross referenced to Paris.
+        Ok done.  I have his phone hash cross-referenced to Paris.
 
                             TREADSTONE COMMANDER  
         Great!  Execute command!
