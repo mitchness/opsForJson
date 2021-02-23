@@ -206,7 +206,7 @@ Treadstone commander looks confused and mildy unimpressed.
 Camera pans right.
 
                             OPS PERSON #2
-        Camera a little hard to control.
+        Camera is a little hard to control.
         
 Camera pans left too far.  Finally, he's able to get camera centered.
 
