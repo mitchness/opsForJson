@@ -162,7 +162,8 @@ Janet walks up slowly.  Hands in pocket.  Points to screen.
         Hey Janet, how do we run manual conversion if we don't have the latest updates.
         
                             Janet (Ops Person #4)
-        Just pipe the stream but you have to tell the conversion what the codec is.  Do you know the codec.
+        Just pipe the stream but you have to tell the conversion what the codec is.  
+        Do you know the codec?
         
                             OPS PERSON #3
         Ummm.... no! .
